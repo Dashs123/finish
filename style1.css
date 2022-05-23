@@ -18,6 +18,7 @@ header img {
 h1 {
     text-align: center;
     font-size: 50px;
+    color: #DC143C;
 }
 
 h2 {
@@ -37,4 +38,7 @@ footer{
 
 header a {
     text-decoration: none;
+    border: 3px solid pink;
+    padding: 3px;
+    margin-left: 50px;
 }
